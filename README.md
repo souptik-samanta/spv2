@@ -1,6 +1,6 @@
 # SoupPad (SPV2)
 
-> A custom mechanical macropad by Souptik — featuring 6 switches, a rotary encoder, an OLED display, and a Seeed Studio XIAO microcontroller.
+> A custom mechanical macropad by Souptik — featuring 6 switches, a rotary encoder, an OLED display, and a Seeed Studio XIAOesp32 microcontroller.
 
 ---
 
@@ -14,7 +14,7 @@
 - 6 keys 
 - 1 encoder 
 - 1 oled 
-- works on a xiao
+- works on a xiaoesp32 and wifi keeb
 
 
 ---
@@ -22,7 +22,7 @@
 ### What You'll Need
 
 - Custom PCB (order from JLCPCB, PCBWay, etc. using the gerbers)
-- Seeed Studio XIAO (any variant)
+- Seeed Studio XIAO esp32 **(note to who reviews this is custom project because it need esp32 and its a wifi keeb)**
 - 6x MX-compatible switches
 - 6x keycaps
 - 1x rotary encoder + knob
@@ -48,7 +48,7 @@ pcb | jlcpcb.com | 1 | 11 | 11 | jlcpcb | planing
 case | N/a | 1x | 50cent | 50 | self | made
 SSD1306 oled | https://quartzcomponents.com/products/oled-display-0-96-inch-i2c-interface-4-pin-blue-ssd1306?variant=33049183060103&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic?utm_source=google&utm_medium=FreeListings&srsltid=AfmBOorsbj_mcdhpm64q1XpYrVHl3aL0RwTseDNoNrqtfPXqM2rrpq4e13g | 1 | 150Rs | 150 | quartz | planing
 EC11 encoder | https://probots.co.in/20-position-360-degree-rotary-encoder-ec11-w-push-button.html | 1 | 100 | 100 | probots | planing
-Xiao seeed | https://robocraze.com/products/seeed-studio-xiao-esp32c3 | 1 | 600 | 600 | robocrze | planing
+Xiao seeedESP32C3 | https://robocraze.com/products/seeed-studio-xiao-esp32c3 | 1 | 600 | 600 | robocrze | planing
 4148 diode | https://www.electricallearner.in/product/1n4148-diode-500mw-100v-glass-diode/?srsltid=AfmBOoqRdRb2OJyy0Yj-ITs9MlDKtWR0Jx_fuFhAGuW4U9hnSnFMeYqCdQs | 1 | 100 | 100 | electriclearner | planing
 m3 nuts botls screws | 3d print | idk | 0 | 0 | 3dp | done
 
