@@ -43,8 +43,8 @@
 
 | Name | Link | Quantity | Unit Price | Vendor | Total |
 |------|------|----------|------------|--------|--------|
-| Keycaps (Numpad Set) | https://stackskb.com/store/numpad-keycaps/?attribute_variant=Blue+Gradient | 1 set | TBD | Stackskb |  |
-| Cherry MX Clear (5-pin, pack of 10) | https://stackskb.com/store/cherry-mx-clear-switch-5-pin-pack-of-10/ | 1 pack | TBD | Stackskb |  |
+| Keycaps (Numpad Set) | https://stackskb.com/store/numpad-keycaps/?attribute_variant=Blue+Gradient | 1 set | 150 | Stackskb |  |
+| Cherry MX Clear (5-pin, pack of 10) | https://stackskb.com/store/cherry-mx-clear-switch-5-pin-pack-of-10/ | 1 pack | 700 | Stackskb |  |
 | PCB | https://jlcpcb.com | 1 | $11 | JLCPCB | |
 | Case (3D printed) | N/A | 1 | $0.50 | Self |  |
 | SSD1306 OLED (0.96” I2C) | https://quartzcomponents.com/products/oled-display-0-96-inch-i2c-interface-4-pin-blue-ssd1306 | 1 | ₹150 | Quartz Components | |
