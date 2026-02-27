@@ -5,7 +5,7 @@
 ---
 
 ## preview with assembly
-![case](image.png)
+![case](image-8.png)
 ![pcb](image-1.png)
 ![schm](image-7.png)
 ---
