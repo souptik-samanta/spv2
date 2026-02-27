@@ -4,9 +4,10 @@
 
 ---
 
-## preview 
+## preview with assembly
 ![case](image.png)
 ![pcb](image-1.png)
+![schm](image-7.png)
 ---
 
 ## Features
